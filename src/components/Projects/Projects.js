@@ -32,7 +32,7 @@ function Projects() {
               imgPath={Portfolio}
               title="Portfolio Website"
               description="My personal Portfolio Website build with React and Bootstrap."
-              ghLink="https://github.com/rahuljha4171/Portfolio-Website"
+              ghLink="https://github.com/jaiwinshah3/Jaiwin_portfolio"
             />
           </Col>
           <Col md={6} lg={4} className="project-card">

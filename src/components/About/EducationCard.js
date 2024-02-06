@@ -52,7 +52,6 @@ function EducationCard() {
                 </Card.Body>
             </Card>
             {/* Rest of the component */}
-            <img />
         </div>
     );
 }

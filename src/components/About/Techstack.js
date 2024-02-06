@@ -7,11 +7,8 @@ import {
   DiGit,
 } from "react-icons/di";
 import {
-  SiFirebase,
   SiNextdotjs,
-  SiTailwindcss,
-  SiRedux,
-  SiMui,
+
 } from "react-icons/si";
 
 function Techstack() {

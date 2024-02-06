@@ -34,7 +34,7 @@ function AboutCard() {
               </li>
             </ul>
           </blockquote>
-          <img />
+
         </Card.Body>
       </Card>
       <Card className="quote-card-view">
@@ -61,7 +61,6 @@ function AboutCard() {
             </ul>
 
           </blockquote>
-          <img />
         </Card.Body>
       </Card>
 
@@ -88,7 +87,6 @@ function AboutCard() {
             </ul>
 
           </blockquote>
-          <img />
         </Card.Body>
       </Card>
 
